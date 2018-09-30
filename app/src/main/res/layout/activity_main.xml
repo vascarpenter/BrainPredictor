@@ -19,7 +19,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_span="2"
-                    android:text="Japan Urgent Stroke Triage (JUST) Score 計算機"/>
+                    android:text="Japan Urgent Stroke Triage (JUST) Score 計算機 (c) gikoha 2018"/>
         </TableRow>
         <TableRow
                 android:layout_width="match_parent"
@@ -289,7 +289,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_span="2"
-                    android:text="大血管閉塞・出血の場合は脳外科の大病院へ"/>
+                    android:text="大血管閉塞・出血は脳外科のある病院へ"/>
         </TableRow>
 
     </TableLayout>

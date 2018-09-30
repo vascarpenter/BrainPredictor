@@ -12,6 +12,6 @@ Uchida et al. Stroke. 2018;49:1820-1827 論文を参考にしています
 開頭術やステント血栓回収術までの時間が遅れる場合があり、とりわけ基幹病院の少ない・遠い地域にとっては
 脳梗塞の範囲を減らしADLを改善する上では有効ではないかと考えます。
 
-Google Play Storeでベータ版公開。
+Google Play Storeで公開。
 
 https://play.google.com/store/apps/details?id=com.hatenablog.gikoha.brainpredictor

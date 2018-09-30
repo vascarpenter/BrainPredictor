@@ -18,8 +18,8 @@ android {
         applicationId "com.hatenablog.gikoha.brainpredictor"
         minSdkVersion 15
         targetSdkVersion 26
-        versionCode 2
-        versionName '1.01'
+        versionCode 3
+        versionName '1.02'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         signingConfig signingConfigs.config
     }
